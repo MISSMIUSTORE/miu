@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: Audience Network
+title: ''
 labels: ''
-assignees: Miu98
+assignees: ''
 
 ---
 
